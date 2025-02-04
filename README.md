@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 Its me Pabitra.I am undegraduate student from Kalika secondary school.I am currently studying bachelor.And i like coding too much.
+
 
 <!--
 **PabitraShrestha/PabitraShrestha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
